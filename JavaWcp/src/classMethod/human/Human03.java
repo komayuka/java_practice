@@ -13,7 +13,7 @@ public class Human03 {
 	}
 	
 	public String getprofile() {
-		return "年齢は" + this.age + "職業は" + this.professtion;
+		return "年齢は" + this.age + ",職業は" + this.professtion;
 	}
 	
 	public void greet(String friend) {
